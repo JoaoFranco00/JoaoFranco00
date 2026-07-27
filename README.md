@@ -21,7 +21,7 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente e
 
 Gosto de aprender colocando a mão na massa. Sempre que estudo uma nova tecnologia, procuro transformá-la em um projeto prático para consolidar o conhecimento e evoluir como desenvolvedor.
 
-No momento estou aprofundando meus estudos em desenvolvimento web enquanto desenvolvo um sistema completo para gerenciamento de uma sapataria, projeto que utilizo como laboratório para aplicar boas práticas, versionamento de código e desenvolvimento de aplicações reais.
+No momento estou aprofundando meus estudos em desenvolvimento web enquanto desenvolvo um sistema completo para gerenciamento de uma pizzaria, projeto que utilizo como laboratório para aplicar boas práticas, versionamento de código e desenvolvimento de aplicações reais.
 
 Além do desenvolvimento web, durante a graduação também tive contato com desenvolvimento mobile, banco de dados, análise de dados e Internet das Coisas (IoT), experiências que ampliaram minha visão sobre diferentes áreas da tecnologia.
 
